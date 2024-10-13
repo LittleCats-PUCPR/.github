@@ -25,7 +25,9 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
     </td>
     <td align="left">
       <h2>Anna Quézia</h1>
-      <p>A gata não quis dizer nada ainda..</p>
+      <p>Amante de fotografia, séries coreanas e livros</p>
+      <p>Trabalho com desenvolvimento web, com interesse em aprender mobile</p>
+      <p>Documentadora e corretora de código do LittleCats</p>
     </td>
   </tr>
     <tr>
