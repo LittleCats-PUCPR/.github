@@ -10,7 +10,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
 <table>
   <tr>
     <td align="center">
-      <img height="200" width="200" src="https://github.com/user-attachments/assets/a79819fc-86ce-42ec-8bfe-a16ea1861dd4"/>
+      <img height="125" width="125" src="https://github.com/user-attachments/assets/a79819fc-86ce-42ec-8bfe-a16ea1861dd4"/>
     </td>
     <td align="left">
       <h2>Otávio Augusto </h1>
@@ -21,7 +21,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
   </tr>
     <tr>
     <td align="center">
-      <img height="200" width="200" src="https://github.com/user-attachments/assets/476b80f2-fabc-4836-8cd3-01e777d93338"/>
+      <img height="125" width="125" src="https://github.com/user-attachments/assets/476b80f2-fabc-4836-8cd3-01e777d93338"/>
     </td>
     <td align="left">
       <h2>Anna Quézia</h1>
@@ -30,7 +30,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
   </tr>
     <tr>
     <td align="center">
-      <img height="200" width="200" src="https://github.com/user-attachments/assets/b1755a50-581d-4790-8170-a7ebfdbb0dcf"/>
+      <img height="125" width="125" src="https://github.com/user-attachments/assets/b1755a50-581d-4790-8170-a7ebfdbb0dcf"/>
     </td>
     <td align="left">
       <h2>Deborah Lizardo</h1>
@@ -39,7 +39,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
   </tr>
     <tr>
     <td align="center">
-      <img height="200" width="200" src="https://github.com/user-attachments/assets/688ebcb3-1acc-4345-a50c-9735eabb9c8d"/>
+      <img height="125" width="125" src="https://github.com/user-attachments/assets/688ebcb3-1acc-4345-a50c-9735eabb9c8d"/>
     </td>
     <td align="left">
       <h2>Laura Rodrigues</h1>
@@ -48,7 +48,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
   </tr>
     <tr>
     <td align="center">
-      <img height="200" width="200" src="https://github.com/user-attachments/assets/64f8b0d9-0ec7-4fa5-a05d-3ca79a53d718"/>
+      <img height="125" width="125" src="https://github.com/user-attachments/assets/64f8b0d9-0ec7-4fa5-a05d-3ca79a53d718"/>
     </td>
     <td align="left">
       <h2>Cecília Moreira</h1>
