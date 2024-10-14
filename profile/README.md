@@ -36,7 +36,9 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
     </td>
     <td align="left">
       <h2>Deborah Lizardo</h1>
-      <p>A gata não quis dizer nada ainda..</p>
+      <p> Desenvolvedora amante da dança, com ênfase em heels e hip-hop, onde cada movimento é uma expressão única.</p>
+      <p>Vejo a programação como uma coreografia, onde cada linha de código se alinha para criar uma apresentação inovadora.</p>
+      <p>Revisora de Qualidade Textual do LittleCats</p>
     </td>
   </tr>
     <tr>
