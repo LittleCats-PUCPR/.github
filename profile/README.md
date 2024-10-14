@@ -39,7 +39,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
       <p> Desenvolvedora web amante da língua alemã e da dança, onde a expressão é a essência.</p>
       <p>Vejo a programação como uma coreografia, onde cada linha de código se alinha para criar uma apresentação inovadora.</p>
       <p>Aprecio programar ouvindo um jazz envolvente.</p>
-      <p>Revisora de Qualidade Textual do LittleCats</p>
+      <p>Analista de Qualidade Textual do LittleCats</p>
     </td>
   </tr>
     <tr>
