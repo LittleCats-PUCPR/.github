@@ -36,9 +36,9 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
     </td>
     <td align="left">
       <h2>Deborah Lizardo</h1>
-      <p> Desenvolvedora amante da dança, entusiasta de Heels e Hip-Hop, onde a expressão é a essência.</p>
+      <p> Desenvolvedora web amante da língua alemã e da dança, onde a expressão é a essência.</p>
       <p>Vejo a programação como uma coreografia, onde cada linha de código se alinha para criar uma apresentação inovadora.</p>
-      <p>Gosto de programar ouvindo jazz e, ocasionalmente, degustando um bom vinho.</p>
+      <p>Aprecio programar ouvindo um jazz envolvente.</p>
       <p>Revisora de Qualidade Textual do LittleCats</p>
     </td>
   </tr>
