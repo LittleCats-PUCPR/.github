@@ -44,7 +44,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
   </tr>
     <tr>
     <td align="center">
-      <img height="125" width="125" src="https://github.com/user-attachments/assets/688ebcb3-1acc-4345-a50c-9735eabb9c8d"/>
+      <img height="125" width="125" src="https://github.com/user-attachments/assets/246c623f-e5bb-453d-a0f7-051594d94df2"/>
     </td>
     <td align="left">
       <h2>Laura Rodrigues</h1>
