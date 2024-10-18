@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo 🐱
-Na PUCPR, somos uma equipe de engenharia de software dedicada a criar soluções inovadoras em tudo, com devs iOS e projetos web.
+Na PUCPR, somos uma equipe de engenharia de software dedicada a criar soluções inovadoras, com devs iOS e projetos web.
 
 Com uma abordagem colaborativa, transformamos ideias em realidade, sempre prontos para enfrentar novos desafios e deixar nossa marca no campus!
 
