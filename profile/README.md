@@ -14,8 +14,8 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
     </td>
     <td align="left">
       <h2>Otávio Augusto 🚔</h1>
-      <p>Desenvolvedor iOS, amante de jogos, produção músical, fotografia</p>
-      <p>Trabalha com UIKit, SwiftUI e também desenvolve web. </p>
+      <p>Desenvolvedor iOS, amante de jogos RPG e estratégia, pianista, entusiasta de fotografia</p>
+      <p>Trabalha com UIKit, SwiftUI e também desenvolve web </p>
       <p>Reprovador profissional de PR's, aspirante a designer e admin do LittleCats</p>
     </td>
   </tr>
