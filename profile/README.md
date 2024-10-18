@@ -38,7 +38,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
       <h2>Deborah Lizardo 📝</h1>
       <p> Desenvolvedora web amante da língua alemã e da dança, onde a expressão é a essência.</p>
       <p>Aprecio programar ouvindo um jazz envolvente.</p>
-      <p>Analista de Qualidade Textual do LittleCats</p>
+      <p>Analista de qualidade textual do LittleCats</p>
     </td>
   </tr>
     <tr>
@@ -52,7 +52,7 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
   </tr>
     <tr>
     <td align="center">
-      <img height="125" width="125" src="https://github.com/user-attachments/assets/64f8b0d9-0ec7-4fa5-a05d-3ca79a53d718"/>
+      <img height="125" width="125" src="https://github.com/user-attachments/assets/d76a6fa6-1dfd-405a-906c-e9c7e07cb074"/>
     </td>
     <td align="left">
       <h2>Cecília Moreira</h1>
