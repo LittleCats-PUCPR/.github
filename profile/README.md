@@ -50,13 +50,4 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
       <p>A gata não quis dizer nada ainda..</p>
     </td>
   </tr>
-    <tr>
-    <td align="center">
-      <img height="125" width="125" src="https://github.com/user-attachments/assets/d76a6fa6-1dfd-405a-906c-e9c7e07cb074"/>
-    </td>
-    <td align="left">
-      <h2>Cecília Moreira</h1>
-      <p>A gata não quis dizer nada ainda..</p>
-    </td>
-  </tr>
 </table>
