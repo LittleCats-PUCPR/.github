@@ -32,17 +32,6 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
   </tr>
     <tr>
     <td align="center">
-      <img height="125" width="125" src="https://github.com/user-attachments/assets/b1755a50-581d-4790-8170-a7ebfdbb0dcf"/>
-    </td>
-    <td align="left">
-      <h2>Deborah Lizardo 📝</h1>
-      <p> Desenvolvedora web amante da língua alemã e da dança, onde a expressão é a essência.</p>
-      <p>Aprecio programar ouvindo um jazz envolvente.</p>
-      <p>Analista de qualidade textual do LittleCats</p>
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
       <img height="125" width="125" src="https://github.com/user-attachments/assets/246c623f-e5bb-453d-a0f7-051594d94df2"/>
     </td>
     <td align="left">
