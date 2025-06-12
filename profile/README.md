@@ -36,7 +36,9 @@ Além disso, nossa equipe é composta por amantes de arte, indo desde dançarino
     </td>
     <td align="left">
       <h2>Laura Rodrigues</h1>
-      <p>A gata não quis dizer nada ainda..</p>
+      <p>Amante de sociologia, fotografia e viagens</p>
+      <p>Trabalha com desenvolvimento web</p>
+      <p>Administradora dos BDs do LittleCats</p>
     </td>
   </tr>
 </table>
